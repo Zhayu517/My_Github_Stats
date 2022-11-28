@@ -23,10 +23,10 @@
 </h1> 
 
 <div align="center"> 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zhayu517&count_private=true&show_icons=true&theme=onedark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zhayu517&count_private=true&show_icons=true&theme=transparent" />
   <br />
   <br />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhayu517&layout=compact&theme=onedark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhayu517&layout=compact&theme=transparent" />
 </div>
 
 <h1 align="center">
