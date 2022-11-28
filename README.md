@@ -23,7 +23,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/css3.svg" width=48 height=48></a>
   <a href="https://www.typescriptlang.org/"><img src="images/typescript.svg" width=48 height=48></a>
   <a href="https://www.javascript.com/"><img src="images/javascript.svg" width=48 height=48></a>
-  <a href=""><img src="images/sass.svg" width=48 height=48></a>
+  <a href="https://sass-lang.com/"><img src="images/sass.svg" width=48 height=48></a>
   <a href=""><img src="images/react.svg" width=48 height=48></a>
   <a href=""><img src="images/latex.svg" width=48 height=48></a>
   
