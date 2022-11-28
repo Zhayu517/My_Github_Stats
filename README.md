@@ -17,33 +17,33 @@
 
 <div align="center">
   <!-- https://icons8.com/icons -->
-  <a href="https://www.java.com/en/"><img src="images/java.svg" width=48 height=48></a>
-  <a href="https://www.python.org/"><img src="images/python.svg" width=48 height=48></a>
-  <a href="https://www.javascript.com/"><img src="images/javascript.svg" width=48 height=48></a>
+  <a href="https://www.java.com/en/"><img src="images/java.gif" width=48 height=48></a>
+  <a href="https://www.python.org/"><img src="images/python.gif" width=48 height=48></a>
+  <a href="https://www.javascript.com/"><img src="images/javascript.gif" width=48 height=48></a>
   <a href="https://opencv.org/"><img src="images/opencv.svg" width=48 height=48></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="images/html5.svg" width=48 height=48></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="images/html-filetype.gif" width=48 height=48></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/css3.svg" width=48 height=48></a>
 </div>
 
 <div align="center">
-  <a href="https://reactjs.org/"><img src="icons/React-icon.svg" width=48 height=48></a>
-  <a href="https://nextjs.org/"><img src="icons/nextjs.svg" width=48 height=48></a>
-  <a href="https://sass-lang.com/"><img src="icons/icons8-sass.svg" width=48 height=48></a>
-  <a href="https://github.com/pugjs/pug"><img src="icons/pug-final-logo-_-colour-128.svg" width=48 height=48></a>
-  <a href="https://threejs.org/"><img src="icons/threejs.svg" width=48 height=48></a>
+  <a href="https://reactjs.org/"><img src="images/react.gif" width=48 height=48></a>
+  <a href="https://nextjs.org/"><img src="images/next.js.svg" width=48 height=48></a>
+  <a href="https://sass-lang.com/"><img src="images/icons8-sass.svg" width=48 height=48></a>
+  <a href="https://github.com/pugjs/pug"><img src="images/pug-final-logo-_-colour-128.svg" width=48 height=48></a>
+  <a href="https://threejs.org/"><img src="images/threejs.svg" width=48 height=48></a>
 </div>
 
 <div align="center">
-  <a href="https://pytorch.org/"><img src="icons/pytorch-icon.svg" width=44 height=44></a>
-  <a href="https://numpy.org/"><img src="icons/numpy-icon.svg" width=48 height=48></a>
-  <a href="https://matplotlib.org/"><img src="icons/Matplotlib_icon.svg" width=48 height=48></a>
+  <a href="https://pytorch.org/"><img src="images/pytorch-icon.svg" width=44 height=44></a>
+  <a href="https://numpy.org/"><img src="images/numpy-icon.svg" width=48 height=48></a>
+  <a href="https://matplotlib.org/"><img src="images/Matplotlib_icon.svg" width=48 height=48></a>
 </div>
 
 <div align="center">
-  <a href="https://www.blender.org/"><img src="icons/blender.svg" width=48 height=48></a>
-  <a href="https://unity.com/"><img src="icons/icons8-unity.svg" width=48 height=48></a>
+  <a href="https://www.blender.org/"><img src="images/blender.svg" width=48 height=48></a>
+  <a href="https://unity.com/"><img src="images/icons8-unity.svg" width=48 height=48></a>
 </div>
 
 <div align="center">
-  <a href="https://aws.amazon.com/"><img src="icons/icons8-amazon-web-services.svg" width=48 height=48></a>
+  <a href="https://aws.amazon.com/"><img src="images/icons8-amazon-web-services.svg" width=48 height=48></a>
 </div>
