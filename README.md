@@ -1,6 +1,12 @@
 <h1 align="center">
-  Hello I'm Zhaoyu Zhang
+  Hello👋
 </h1>
+
+<div align="center">
+  I'm Zhaoyu Zhang, a recently graduate in Computer Science 👨‍💻 who is passionate about programming and its entire ecosystem.<br/>
+  You can see <a href="https://github.com/Zhayu517/Resume/blob/main/Zhaoyu_Zhang_Resume.pdf">My English CV<a/> here
+<div/>
+<br/>
 
 [//]: # "My github stats, contain actions and languages used, powered by [Anuraghazra's GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)" 
 
@@ -54,11 +60,14 @@
   Links
 </h1>
 
-<div align="center">
-  <a href="https://github.com/Zhayu517/Resume/blob/main/Zhaoyu_Zhang_Resume.pdf">CV<a/><br/>
-  <a href="https://www.linkedin.com/in/zhaoyuzhang/">LinkedIn<a/><br/>
-  <a href="https://zhayu517.github.io">Personal Website<a/>
-<div/>
+
+[![Personal Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zhayu517.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhaoyuzhang/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zhayu517/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zhaoyu.zhang.771)
+[![Wechat Badge](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/Zhayu517/Zhayu517/main/images/wechat-account.png)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://raw.githubusercontent.com/Zhayu517/Zhayu517/main/images/whatsapp-account.png)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhangzy517@gmail.com)
   
 <h1 align="center">
   Papers and Presentations
