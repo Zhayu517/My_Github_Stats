@@ -17,16 +17,20 @@
 
 <div align="center">
   <!-- https://icons8.com/icons -->
-  <a href="https://dev.java/"><img src="images/java.gif" width=48 height=48></a>
-  <a href="https://www.python.org/"><img src="images/python.gif" width=48 height=48></a>
-  <a href="https://www.javascript.com/"><img src="images/javascript.gif" width=48 height=48></a>
-  <a href="https://opencv.org/"><img src="images/opencv.svg" width=48 height=48></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="images/html-filetype.gif" width=48 height=48></a>
+  <a href="https://dev.java/"><img src="images/java.svg" width=48 height=48></a>
+  <a href="https://www.python.org/"><img src="images/python.svg" width=48 height=48></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="images/html5.svg" width=48 height=48></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/css3.svg" width=48 height=48></a>
+  <a href="https://www.typescriptlang.org/"><img src="images/typescript.svg" width=48 height=48></a>
+  <a href="https://www.javascript.com/"><img src="images/javascript.svg" width=48 height=48></a>
+  <a href=""><img src="images/sass.svg" width=48 height=48></a>
+  <a href=""><img src="images/react.svg" width=48 height=48></a>
+  <a href=""><img src="images/latex.svg" width=48 height=48></a>
+  
 </div>
 
 <div align="center">
-  <a href="https://reactjs.org/"><img src="images/react.gif" width=48 height=48></a>
+  <a href="https://reactjs.org/"><img src="images/react.svg" width=48 height=48></a>
   <a href="https://nextjs.org/"><img src="images/next.js.svg" width=48 height=48></a>
   <a href="https://sass-lang.com/"><img src="images/icons8-sass.svg" width=48 height=48></a>
   <a href="https://github.com/pugjs/pug"><img src="images/pug-final-logo-_-colour-128.svg" width=48 height=48></a>
