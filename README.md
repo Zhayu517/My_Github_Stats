@@ -17,7 +17,7 @@
 
 <div align="center">
   <!-- https://icons8.com/icons -->
-  <a href="https://www.java.com/en/"><img src="images/java.gif" width=48 height=48></a>
+  <a href="https://dev.java/"><img src="images/java.gif" width=48 height=48></a>
   <a href="https://www.python.org/"><img src="images/python.gif" width=48 height=48></a>
   <a href="https://www.javascript.com/"><img src="images/javascript.gif" width=48 height=48></a>
   <a href="https://opencv.org/"><img src="images/opencv.svg" width=48 height=48></a>
