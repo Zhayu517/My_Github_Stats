@@ -17,12 +17,12 @@
 
 <div align="center">
   <!-- https://icons8.com/icons -->
-  <a href="https://www.java.com/en/"><img src="icons/icons8-java.svg" width=48 height=48></a>
-  <a href="https://www.python.org/"><img src="icons/icons8-python.svg" width=48 height=48></a>
-  <a href="https://www.javascript.com/"><img src="icons/icons8-javascript.svg" width=48 height=48></a>
-  <a href="https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)"><img src="icons/Opengl-logo.svg" width=48 height=48></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="icons/icons8-html-5.svg" width=48 height=48></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/icons8-css3.svg" width=48 height=48></a>
+  <a href="https://www.java.com/en/"><img src="images/java.svg" width=48 height=48></a>
+  <a href="https://www.python.org/"><img src="images/python.svg" width=48 height=48></a>
+  <a href="https://www.javascript.com/"><img src="images/javascript.svg" width=48 height=48></a>
+  <a href="https://opencv.org/"><img src="images/opencv.svg" width=48 height=48></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="images/html5.svg" width=48 height=48></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/css3.svg" width=48 height=48></a>
 </div>
 
 <div align="center">
