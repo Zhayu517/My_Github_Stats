@@ -19,6 +19,44 @@
 [![Personal Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zhayu517.github.io)
 
 <h1 align="center">
+  Skills
+</h1>
+
+<div align="center">
+  <!-- https://icons8.com/icons -->
+  <a href="https://dev.java/"><img src="images/java.svg" width=48 height=48></a>
+  <a href="https://www.python.org/"><img src="images/python.svg" width=48 height=48></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="images/html5.svg" width=48 height=48></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/css3.svg" width=48 height=48></a>
+  <a href="https://www.typescriptlang.org/"><img src="images/typescript.svg" width=48 height=48></a>
+  <a href="https://www.javascript.com/"><img src="images/javascript.svg" width=48 height=48></a>
+  <a href="https://sass-lang.com/"><img src="images/sass.svg" width=48 height=48></a>
+  <a href="https://reactjs.org/"><img src="images/react.svg" width=48 height=48></a>
+  <a href="https://www.latex-project.org/"><img src="images/latex.svg" width=48 height=48></a>
+</div>
+
+<div align="center">
+  <a href="https://pytorch.org/"><img src="images/pytorch.svg" width=96 height=48></a>
+  <a href="https://numpy.org/"><img src="images/numpy.svg" width=96 height=48></a>
+  <a href="https://matplotlib.org/"><img src="images/matplotlib.svg" width=48 height=48></a>
+  <a href="https://jupyter.org/"><img src="images/jupyter.svg" width=48 height=48></a>
+  <a href="https://pandas.pydata.org/"><img src="images/pandas.svg" width=48 height=48></a>
+  <a href="https://www.tensorflow.org/"><img src="images/tensorflow.svg" width=48 height=48></a>
+  <a href="https://scikit-learn.org/stable/"><img src="images/scikit-learn.svg" width=96 height=48></a>
+</div>
+
+<div align="center">
+  <a href="https://opencv.org/"><img src="images/opencv.svg" width=48 height=48></a>
+  <a href="https://aws.amazon.com/"><img src="images/aws.svg" width=48 height=48></a>
+  <a href="https://azure.microsoft.com/en-us/"><img src="images/azure.svg" width=48 height=48></a>
+  <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview"><img src="images/active-directory.svg" width=144 height=48></a>
+  <a href="https://www.linux.org/"><img src="images/linux.svg" width=48 height=48></a>
+  <a href="https://daringfireball.net/projects/markdown/"><img src="images/markdown.png" width=80 height=40></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="images/powershell.svg" width=48 height=48></a>
+  <a href="https://ubuntu.com/"><img src="images/ubuntu.svg" width=48 height=48></a>
+</div>  
+
+<h1 align="center">
   Statistics
 </h1> 
 
@@ -52,45 +90,6 @@
 ">Question Classifier<a/><br/>
   <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/SMA-Text-Mining.pdf">SMA Text Mining<a/>
 <div/>
-
-<h1 align="center">
-  Skills
-</h1>
-
-<div align="center">
-  <!-- https://icons8.com/icons -->
-  <a href="https://dev.java/"><img src="images/java.svg" width=48 height=48></a>
-  <a href="https://www.python.org/"><img src="images/python.svg" width=48 height=48></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="images/html5.svg" width=48 height=48></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/css3.svg" width=48 height=48></a>
-  <a href="https://www.typescriptlang.org/"><img src="images/typescript.svg" width=48 height=48></a>
-  <a href="https://www.javascript.com/"><img src="images/javascript.svg" width=48 height=48></a>
-  <a href="https://sass-lang.com/"><img src="images/sass.svg" width=48 height=48></a>
-  <a href="https://reactjs.org/"><img src="images/react.svg" width=48 height=48></a>
-  <a href="https://www.latex-project.org/"><img src="images/latex.svg" width=48 height=48></a>
-  
-</div>
-
-<div align="center">
-  <a href="https://pytorch.org/"><img src="images/pytorch.svg" width=96 height=48></a>
-  <a href="https://numpy.org/"><img src="images/numpy.svg" width=96 height=48></a>
-  <a href="https://matplotlib.org/"><img src="images/matplotlib.svg" width=48 height=48></a>
-  <a href="https://jupyter.org/"><img src="images/jupyter.svg" width=48 height=48></a>
-  <a href="https://pandas.pydata.org/"><img src="images/pandas.svg" width=48 height=48></a>
-  <a href="https://www.tensorflow.org/"><img src="images/tensorflow.svg" width=48 height=48></a>
-  <a href="https://scikit-learn.org/stable/"><img src="images/scikit-learn.svg" width=96 height=48></a>
-</div>
-
-<div align="center">
-  <a href="https://opencv.org/"><img src="images/opencv.svg" width=48 height=48></a>
-  <a href="https://aws.amazon.com/"><img src="images/aws.svg" width=48 height=48></a>
-  <a href="https://azure.microsoft.com/en-us/"><img src="images/azure.svg" width=48 height=48></a>
-  <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview"><img src="images/active-directory.svg" width=144 height=48></a>
-  <a href="https://www.linux.org/"><img src="images/linux.svg" width=48 height=48></a>
-  <a href="https://daringfireball.net/projects/markdown/"><img src="images/markdown.png" width=80 height=40></a>
-  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="images/powershell.svg" width=48 height=48></a>
-  <a href="https://ubuntu.com/"><img src="images/ubuntu.svg" width=48 height=48></a>
-</div>
 
 <h1 align="center">
   Contact Me
