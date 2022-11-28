@@ -45,7 +45,7 @@
   <a href=""><img src="images/azure.svg" width=48 height=48></a>
   <a href=""><img src="images/active-directory.svg" width=144 height=48></a>
   <a href=""><img src="images/linux.svg" width=48 height=48></a>
-  <a href=""><img src="images/markdown.svg" width=96 height=48></a>
+  <a href=""><img src="images/markdown.png" width=80 height=40></a>
   <a href=""><img src="images/powershell.svg" width=48 height=48></a>
-  <a href=""><img src="images/ubuntu.svg" width=96 height=48></a>
+  <a href=""><img src="images/ubuntu.svg" width=48 height=48></a>
 </div>
