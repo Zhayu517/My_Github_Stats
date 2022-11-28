@@ -12,12 +12,38 @@
 
 [//]: # "My github stats, contain actions and languages used, powered by [Anuraghazra's GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)" 
 
+<h1 align="center">
+  Website
+</h1> 
+  
+[![Personal Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zhayu517.github.io)
+
+<h1 align="center">
+  Statistics
+</h1> 
+
 <div align="center"> 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zhayu517&count_private=true&show_icons=true&theme=onedark" />
   <br />
   <br />
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhayu517&layout=compact&theme=onedark" />
 </div>
+
+<h1 align="center">
+  Papers and Presentations
+</h1>
+
+<div align="center">
+  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/3rd_Year_Project_Report.pdf
+">3rd Year Project Report<a/><br/>
+  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/Leader%20Follower.pdf
+">Leader Follower<a/><br/>
+  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/Optimizing%20minimal%20counterexamples.pdf
+">Optimizing Minimal Counterexamples<a/><br/>
+  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/Question%20Classifier.pdf
+">Question Classifier<a/><br/>
+  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/SMA-Text-Mining.pdf">SMA Text Mining<a/>
+<div/>
 
 <h1 align="center">
   Skills
@@ -59,11 +85,9 @@
 </div>
 
 <h1 align="center">
-  Links
+  Contact Me
 </h1>
 
-
-[![Personal Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zhayu517.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhaoyuzhang/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zhayu517/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zhaoyu.zhang.771)
@@ -71,19 +95,5 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://raw.githubusercontent.com/Zhayu517/Zhayu517/main/images/whatsapp-account.png)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhangzy517@gmail.com)
   
-<h1 align="center">
-  Papers and Presentations
-</h1>
 
-<div align="center">
-  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/3rd_Year_Project_Report.pdf
-">3rd Year Project Report<a/><br/>
-  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/Leader%20Follower.pdf
-">Leader Follower<a/><br/>
-  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/Optimizing%20minimal%20counterexamples.pdf
-">Optimizing Minimal Counterexamples<a/><br/>
-  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/Question%20Classifier.pdf
-">Question Classifier<a/><br/>
-  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/SMA-Text-Mining.pdf">SMA Text Mining<a/>
-<div/>
     
