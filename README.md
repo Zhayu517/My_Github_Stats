@@ -24,30 +24,28 @@
   <a href="https://www.typescriptlang.org/"><img src="images/typescript.svg" width=48 height=48></a>
   <a href="https://www.javascript.com/"><img src="images/javascript.svg" width=48 height=48></a>
   <a href="https://sass-lang.com/"><img src="images/sass.svg" width=48 height=48></a>
-  <a href=""><img src="images/react.svg" width=48 height=48></a>
-  <a href=""><img src="images/latex.svg" width=48 height=48></a>
+  <a href="https://reactjs.org/"><img src="images/react.svg" width=48 height=48></a>
+  <a href="https://www.latex-project.org/"><img src="images/latex.svg" width=48 height=48></a>
   
 </div>
 
 <div align="center">
-  <a href="https://reactjs.org/"><img src="images/react.svg" width=48 height=48></a>
-  <a href="https://nextjs.org/"><img src="images/next.js.svg" width=48 height=48></a>
-  <a href="https://sass-lang.com/"><img src="images/icons8-sass.svg" width=48 height=48></a>
-  <a href="https://github.com/pugjs/pug"><img src="images/pug-final-logo-_-colour-128.svg" width=48 height=48></a>
-  <a href="https://threejs.org/"><img src="images/threejs.svg" width=48 height=48></a>
+  <a href="https://pytorch.org/"><img src="images/pytorch.svg" width=96 height=48></a>
+  <a href=""><img src="images/numpy.svg" width=96 height=48></a>
+  <a href=""><img src="images/matplotlib.svg" width=48 height=48></a>
+  <a href=""><img src="images/jupyter.svg" width=48 height=48></a>
+  <a href=""><img src="images/pandas.svg" width=48 height=48></a>
+  <a href=""><img src="images/tensorflow.svg" width=48 height=48></a>
+  <a href=""><img src="images/scikit-learn.svg" width=96 height=48></a>
 </div>
 
 <div align="center">
-  <a href="https://pytorch.org/"><img src="images/pytorch-icon.svg" width=44 height=44></a>
-  <a href="https://numpy.org/"><img src="images/numpy-icon.svg" width=48 height=48></a>
-  <a href="https://matplotlib.org/"><img src="images/Matplotlib_icon.svg" width=48 height=48></a>
-</div>
-
-<div align="center">
-  <a href="https://www.blender.org/"><img src="images/blender.svg" width=48 height=48></a>
-  <a href="https://unity.com/"><img src="images/icons8-unity.svg" width=48 height=48></a>
-</div>
-
-<div align="center">
-  <a href="https://aws.amazon.com/"><img src="images/icons8-amazon-web-services.svg" width=48 height=48></a>
+  <a href=""><img src="images/opencv.svg" width=48 height=48></a>
+  <a href=""><img src="images/aws.svg" width=48 height=48></a>
+  <a href=""><img src="images/azure.svg" width=48 height=48></a>
+  <a href=""><img src="images/active-directory.svg" width=144 height=48></a>
+  <a href=""><img src="images/linux.svg" width=48 height=48></a>
+  <a href=""><img src="images/markdown.svg" width=96 height=48></a>
+  <a href=""><img src="images/powershell.svg" width=48 height=48></a>
+  <a href=""><img src="images/ubuntu.svg" width=96 height=48></a>
 </div>
