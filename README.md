@@ -10,8 +10,6 @@
   
 <a href="https://www.buymeacoffee.com/zhayu517" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-[//]: # "My github stats, contain actions and languages used, powered by [Anuraghazra's GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)" 
-
 <h1 align="center">
   Website
 </h1> 
@@ -61,10 +59,10 @@
 </h1> 
 
 <div align="center"> 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zhayu517&count_private=true&show_icons=true&theme=transparent&border_radius=25" />
+  <img height=200 align="center" src="https://github-readme-stats-zhayu517.vercel.app/api?username=Zhayu517&count_private=true&show_icons=true&theme=transparent&border_radius=25" />
   <br />
   <br />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhayu517&layout=compact&theme=transparent&border_radius=25" />
+  <img height=150 align="center" src="https://github-readme-stats-zhayu517.vercel.app/api/top-langs/?username=Zhayu517&layout=compact&theme=transparent&border_radius=25" />
   <br />
   <br />
   <img height=150 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhayu517&theme=github" />
