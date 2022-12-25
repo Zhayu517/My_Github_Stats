@@ -58,7 +58,8 @@
   Statistics
 </h1> 
 
-<div align="center"> 
+<div align="center">
+  Fresh page if you cannot see the pictures <br /> <br />
   <img height=200 align="center" src="https://github-readme-stats-zhayu517.vercel.app/api?username=Zhayu517&count_private=true&show_icons=true&theme=transparent&border_radius=25" />
   <br />
   <br />
