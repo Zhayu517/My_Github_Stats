@@ -4,7 +4,7 @@
 
 <div align="center">
   I'm Zhaoyu Zhang, a recently graduate in Computer Science 👨‍💻 who is passionate about programming and its entire ecosystem.<br/>
-  You can see <a href="https://github.com/Zhayu517/Resume/blob/main/Zhaoyu_Zhang_Resume.pdf">My English CV<a/> here
+  You can see my <a href="https://github.com/Zhayu517/Resume/blob/main/CV_Python/Zhaoyu%20Zhang%20CV.pdf">Python CV<a/> and <a href="https://github.com/Zhayu517/Resume/blob/main/CV_Java/Zhaoyu%20Zhang%20CV.pdf">Java CV<a/> here
 <div/>
 <br/>
   
