@@ -14,7 +14,7 @@
   Website
 </h1> 
   
-[![Personal Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zhaoyuzhangzzy.com)
+[![Personal Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iamzzy.com)
 
 <h1 align="center">
   Skills
