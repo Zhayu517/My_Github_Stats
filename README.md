@@ -63,10 +63,13 @@
   <img height=200 align="center" src="https://github-readme-stats-zhayu517.vercel.app/api?username=Zhayu517&count_private=true&show_icons=true&theme=transparent&border_radius=25" />
   <br />
   <br />
-  <img height=150 align="center" src="https://github-readme-stats-zhayu517.vercel.app/api/top-langs/?username=Zhayu517&layout=compact&theme=transparent&border_radius=25" />
+  <img height=300 align="center" src="https://github-readme-stats-zhayu517.vercel.app/api/top-langs/?username=Zhayu517&layout=donut&theme=transparent&border_radius=25" />
   <br />
   <br />
-  <img height=150 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhayu517&theme=github" />
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhayu517&theme=github" />
+  <br />
+  <br />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zhayu517" />
   <br />
   <br />
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhayu517%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=cliqz.svg&icon_color=%23FFFFFF&title=hits+count&edge_flat=false"/></a>
