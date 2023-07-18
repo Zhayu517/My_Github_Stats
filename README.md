@@ -60,16 +60,16 @@
 
 <div align="center">
   Fresh page if you cannot see the pictures <br /> <br />
-  <img height=200 align="center" src="https://github-readme-stats-zhayu517.vercel.app/api?username=zhaoyu-z&count_private=true&show_icons=true&theme=transparent&border_radius=25" />
+  <img height=200 align="center" src="https://github-readme-stats-zhaoyuzhang.vercel.app/api?username=zhaoyu-z&count_private=true&show_icons=true&theme=transparent&border_radius=25" />
   <br />
   <br />
-  <img height=300 align="center" src="https://github-readme-stats-zhayu517.vercel.app/api/top-langs/?username=zhaoyu-z&layout=donut&theme=transparent&border_radius=25" />
+  <img height=300 align="center" src="https://github-readme-stats-zhaoyuzhang.vercel.app/api/top-langs/?username=zhaoyu-z&layout=donut&theme=transparent&border_radius=25" />
   <br />
   <br />
   <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhaoyu-z&theme=transparent" />
   <br />
   <br />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhaoyuzhang&layout=compact&theme=transparent" />
+  <img height=300 align="center" src="https://github-readme-stats-zhaoyuzhang.vercel.app/api/wakatime?username=zhaoyuzhang&layout=compact&theme=transparent" />
   <br />
   <br />
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhayu517%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=cliqz.svg&icon_color=%23FFFFFF&title=hits+count&edge_flat=false"/></a>
