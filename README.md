@@ -4,11 +4,11 @@
 
 <div align="center">
   I'm Zhaoyu Zhang, a recently graduate in Computer Science 👨‍💻 who is passionate about programming and its entire ecosystem.<br/>
-  You can see my <a href="https://github.com/Zhayu517/Resume/blob/main/CV_Python/Zhaoyu%20Zhang%20CV.pdf">Python CV<a/> and <a href="https://github.com/Zhayu517/Resume/blob/main/CV_Java/Zhaoyu%20Zhang%20CV.pdf">Java CV<a/> here
+  You can see my <a href="https://github.com/zhaoyu-z/Resume/blob/main/CV_Python/Zhaoyu%20Zhang%20CV.pdf">Python CV<a/> and <a href="https://github.com/zhaoyu-z/Resume/blob/main/CV_Java/Zhaoyu%20Zhang%20CV.pdf">Java CV<a/> here
 <div/>
 <br/>
   
-<a href="https://www.buymeacoffee.com/zhayu517" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/zhaoyu-z" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <h1 align="center">
   Website
@@ -60,37 +60,37 @@
 
 <div align="center">
   Fresh page if you cannot see the pictures <br /> <br />
-  <img height=200 align="center" src="https://github-readme-stats-zhayu517.vercel.app/api?username=Zhayu517&count_private=true&show_icons=true&theme=transparent&border_radius=25" />
+  <img height=200 align="center" src="https://github-readme-stats-zhayu517.vercel.app/api?username=zhaoyu-z&count_private=true&show_icons=true&theme=transparent&border_radius=25" />
   <br />
   <br />
-  <img height=300 align="center" src="https://github-readme-stats-zhayu517.vercel.app/api/top-langs/?username=Zhayu517&layout=donut&theme=transparent&border_radius=25" />
+  <img height=300 align="center" src="https://github-readme-stats-zhayu517.vercel.app/api/top-langs/?username=zhaoyu-z&layout=donut&theme=transparent&border_radius=25" />
   <br />
   <br />
-  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhayu517&theme=github" />
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhaoyu-z&theme=github" />
   <br />
   <br />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zhayu517&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhaoyu-z&layout=compact" />
   <br />
   <br />
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhayu517%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=cliqz.svg&icon_color=%23FFFFFF&title=hits+count&edge_flat=false"/></a>
 </div>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhayu517&row=1&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhaoyu-z&row=1&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h1 align="center">
   Papers and Presentations
 </h1>
 
 <div align="center">
-  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/3rd_Year_Project_Report.pdf
+  <a href="https://github.com/zhaoyu-z/Reports-and-Presentations/blob/main/3rd_Year_Project_Report.pdf
 ">3rd Year Project Report<a/><br/>
-  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/Leader%20Follower.pdf
+  <a href="https://github.com/zhaoyu-z/Reports-and-Presentations/blob/main/Leader%20Follower.pdf
 ">Leader Follower<a/><br/>
-  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/Optimizing%20minimal%20counterexamples.pdf
+  <a href="https://github.com/zhaoyu-z/Reports-and-Presentations/blob/main/Optimizing%20minimal%20counterexamples.pdf
 ">Optimizing Minimal Counterexamples<a/><br/>
-  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/Question%20Classifier.pdf
+  <a href="https://github.com/zhaoyu-z/Reports-and-Presentations/blob/main/Question%20Classifier.pdf
 ">Question Classifier<a/><br/>
-  <a href="https://github.com/Zhayu517/Reports-and-Presentations/blob/main/SMA-Text-Mining.pdf">SMA Text Mining<a/>
+  <a href="https://github.com/zhaoyu-z/Reports-and-Presentations/blob/main/SMA-Text-Mining.pdf">SMA Text Mining<a/>
 <div/>
 
 <h1 align="center">
@@ -99,9 +99,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhaoyuzhang/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zhayu517/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zhaoyu.zhang.771)
-[![Wechat Badge](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/Zhayu517/Zhayu517/main/images/wechat-account.png)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://raw.githubusercontent.com/Zhayu517/Zhayu517/main/images/whatsapp-account.png)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zhaoyu.zzhang)
+[![Wechat Badge](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/zhaoyu-z/zhaoyu-z/main/images/wechat-account.png)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://raw.githubusercontent.com/zhaoyu-z/zhaoyu-z/main/images/whatsapp-account.png)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhangzy517@gmail.com)
   
 
